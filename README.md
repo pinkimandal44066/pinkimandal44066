@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @pinki Kumari
+- 👋 Hi, I’m web developer, students
 - 👀 I’m interested in Frontend Web Developer Role.
 - 🌱 I’m currently mastering Reactjs.
+- 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me pinkimandal44066@gmail.com
+- 
+- 
+- 
+- 
 
 
 
