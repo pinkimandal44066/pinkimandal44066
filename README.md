@@ -3,10 +3,7 @@
 - 🌱 I’m currently mastering Reactjs.
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me pinkimandal44066@gmail.com
-- 
-- 
-- 
-- 
+  
 
 
 
